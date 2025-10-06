@@ -1,4 +1,4 @@
-Sistema de Menu de gestão de pacientes para uma clinica
+Sistema de Menu de gestão de pacientes para uma clínica médica
 
 Opções/Funções: 
 - Cadastrar pacientes
@@ -11,3 +11,5 @@ Opções/Funções:
 
   Tecnologias utilizadas:
   - Java
+  - Apache NetBeans
+  - Github
